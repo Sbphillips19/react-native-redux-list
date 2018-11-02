@@ -1,4 +1,4 @@
-#react-native-redux-list
+# react-native-redux-list
 
 App created to allow users to view a list and click on an item and using animation have it pop open. Created in an Udemy course with Stephen Grider. Integrating React Native and Redux.
 
